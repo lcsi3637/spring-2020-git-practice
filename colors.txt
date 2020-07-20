@@ -1,5 +1,6 @@
 red
 pink
 black
+more colors added
 turquaz
 You like Java ? 

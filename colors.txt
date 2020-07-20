@@ -1,8 +1,5 @@
 red
 pink
 black
-more colors added
 turquaz
-You like Java ?
-I likes yours Sedat
-
+You like Java ? 

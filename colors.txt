@@ -4,5 +4,4 @@ black
 turquaz
 You like Java ?
 ###purple
-white
-
+Sedat bir kere daha deniyorum

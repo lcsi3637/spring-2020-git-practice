@@ -1,7 +1,0 @@
-red
-pink
-black
-turquaz
-You like Java ?
-###purple
-Sedat bir kere daha deniyorum
